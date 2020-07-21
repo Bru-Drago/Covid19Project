@@ -13,8 +13,6 @@
 		F547609F24C6024700E8F294 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F547609D24C6024700E8F294 /* Main.storyboard */; };
 		F54760A124C6025400E8F294 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F54760A024C6025400E8F294 /* Assets.xcassets */; };
 		F54760A424C6025400E8F294 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F54760A224C6025400E8F294 /* LaunchScreen.storyboard */; };
-		F54760AC24C6041400E8F294 /* corona.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F54760AB24C6041400E8F294 /* corona.jpeg */; };
-		F54760AE24C6041F00E8F294 /* corona1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F54760AD24C6041F00E8F294 /* corona1.jpeg */; };
 		F54760B024C6042600E8F294 /* corona2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F54760AF24C6042600E8F294 /* corona2.jpeg */; };
 		F54760B224C60ECC00E8F294 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54760B124C60ECB00E8F294 /* DetailViewController.swift */; };
 		F54760B424C620E900E8F294 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54760B324C620E900E8F294 /* Alert.swift */; };
@@ -37,8 +35,6 @@
 		F54760A024C6025400E8F294 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F54760A324C6025400E8F294 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F54760A524C6025400E8F294 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F54760AB24C6041400E8F294 /* corona.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = corona.jpeg; sourceTree = "<group>"; };
-		F54760AD24C6041F00E8F294 /* corona1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = corona1.jpeg; sourceTree = "<group>"; };
 		F54760AF24C6042600E8F294 /* corona2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = corona2.jpeg; sourceTree = "<group>"; };
 		F54760B124C60ECB00E8F294 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		F54760B324C620E900E8F294 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
@@ -89,8 +85,6 @@
 				F54760B624C6328300E8F294 /* View */,
 				F54760B524C6326F00E8F294 /* Controller */,
 				F54760A024C6025400E8F294 /* Assets.xcassets */,
-				F54760AD24C6041F00E8F294 /* corona1.jpeg */,
-				F54760AB24C6041400E8F294 /* corona.jpeg */,
 				F54760AF24C6042600E8F294 /* corona2.jpeg */,
 				F54760A524C6025400E8F294 /* Info.plist */,
 			);
@@ -197,9 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F54760B024C6042600E8F294 /* corona2.jpeg in Resources */,
-				F54760AE24C6041F00E8F294 /* corona1.jpeg in Resources */,
 				F54760A424C6025400E8F294 /* LaunchScreen.storyboard in Resources */,
-				F54760AC24C6041400E8F294 /* corona.jpeg in Resources */,
 				F54760A124C6025400E8F294 /* Assets.xcassets in Resources */,
 				F547609F24C6024700E8F294 /* Main.storyboard in Resources */,
 			);
