@@ -33,7 +33,7 @@ class BrasilViewController: UIViewController {
 }
 extension BrasilViewController:UITableViewDataSource{
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        print(states.count)
+        
         return states.count
         
     }
