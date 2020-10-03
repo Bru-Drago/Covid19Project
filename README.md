@@ -1,6 +1,14 @@
 # Covid19Project
 Projeto de acompanhamento dos números da Covid19 no Brasil e no mundo .
-Feito GET e Parse de json data( utilizando URLSession e Decodable protocol )da API pública: https://covid19-brazil-api.now.sh
-App possui multitelas e utliza UITableView para realizar o display dos dados
+Foram utilizados os dados da API pública: https://covid19-brazil-api.now.sh
+Foi desenvolvido com :
+* StoryBoard
+* Autolayout
+* View Controller
+* Navigation Controller
+* TableView
+* Networking
+* URL Session e Decodable Protocol
+
 
 ![Alt text](4h7rlk.gif?raw=true "Title")
